@@ -47,7 +47,9 @@ The main objective of this course is to **improve programming skills** of studen
 
 ---
 ## Status
-In progress; related documents will be added almost weekly until the end of the 2023 Spring Semester, and past documents will be updated if necessary.
+~~In progress; related documents will be added almost weekly until the end of the 2023 Spring Semester, and past documents will be updated if necessary.~~  
+
+On hold; development is paused for now
 
 ---
 ## Inspiration
