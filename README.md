@@ -47,9 +47,9 @@ The main objective of this course is to **improve programming skills** of studen
 
 ---
 ## Status
-~~In progress; related documents will be added almost weekly until the end of the 2023 Spring Semester, and past documents will be updated if necessary.~~  
+In progress; related documents will be added almost weekly until the end of the 2023 Spring Semester, and past documents will be updated if necessary.  
 
-On hold; development is paused for now
+~~On hold; development is paused for now~~
 
 ---
 ## Inspiration
@@ -64,7 +64,7 @@ I share documents publicly. The contents of the SE 226 projects that will be giv
 ---
 ## Version
 ~~27/02/2023 LAB#1: Types of Programming Languages~~  
-06/03/2023 LAB#2: Fundamental data types, constants, variables, operators  
+~~06/03/2023 LAB#2: Fundamental data types, constants, variables, operators~~  
 13/03/2023 LAB#3: Flow control: selection statements, looping statements  
 20/03/2023 LAB#4: Data Structures in C++: Memory operations, pointers, arrays, Linked lists, Stacks  
 27/03/2023 LAB#5: Data Structures in Python: Lists, Sets, Dictionaries  
@@ -84,5 +84,5 @@ I share documents publicly. The contents of the SE 226 projects that will be giv
 - SE 226 Theory lessons and documentations (slides, images, etc.)
 ---
 ## Licence & Copyright
-© Ejder Aysun, SE226 Lab Tasks  
+© Ejder Aysun, SE226 Theory  
 Licensed under the [MIT Licence](https://github.com/EjderAysun/Advanced-Programming/blob/main/LICENCE)
