@@ -7,7 +7,7 @@ int main() {
     cout<<bool(a == b)<<endl;
     // Output: 0
 
-    // C++ manipulator boolalpha function is used to set the output stream\
+    // C++ manipulator boolalpha function is used to set the output stream \
     to display bool values as the strings "true" or "false".
     
     cout<<boolalpha<<bool(a == b)<<endl;

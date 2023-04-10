@@ -9,7 +9,7 @@ x += [1]  # adding to 1 to the last index of the list
 print(x)
 # Output: [1, 2, 3, 1]
 
-# Assignment Operator Examples
+# Assignment Operator Examples #
 
 # = operator:
 x = 10
@@ -43,7 +43,7 @@ print(x)  # Output: 1.0
 x **= 3
 print(x)  # Output: 1.0
 
-# The following operations are done on a bit scale:
+# The following operations are done on a bit scale: #
 
 # &= operator:
 y = 6

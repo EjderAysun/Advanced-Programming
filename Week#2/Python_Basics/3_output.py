@@ -3,9 +3,9 @@ print("This string will be printed out")
 
 ###########
 
-# Indentation
-# Python uses indentation for blocks, instead of curly braces.
-# Both tabs and spaces are supported, but standard indentation is four spaces,
+# Indentation #
+# - Python uses indentation for blocks, instead of curly braces.
+# - Both tabs and spaces are supported, but standard indentation is four spaces, \
 # and using standard indentation requires standard python code.
 x = 1
 if x==1:

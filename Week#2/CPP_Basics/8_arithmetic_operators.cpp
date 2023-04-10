@@ -1,7 +1,7 @@
 #include <iostream>
 
-// The cmath library in C++ is a library used to perform mathematical operations.\
-This library contains a header file where many mathematical functions such as trigonometric functions,\
+// The cmath library in C++ is a library used to perform mathematical operations. \
+This library contains a header file where many mathematical functions such as trigonometric functions, \
 logarithmic functions, square root, and exponentiation are defined.
 #include <cmath>
 using namespace std;
@@ -19,7 +19,7 @@ int main() {
     cout<<a % b<<endl;
     // Output: 1
 
-    // The pow() function in C++ is used to calculate the power of a number.\
+    // The pow() function in C++ is used to calculate the power of a number. \
     The call pow(x,y) calculates the y to the power of the base x and returns the result.
     cout<<pow(a, b)<<endl;
     // Output: 64

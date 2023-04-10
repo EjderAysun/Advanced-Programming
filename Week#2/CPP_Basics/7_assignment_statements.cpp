@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
 
-    // Assignment Operator Examples
+    // Assignment Operator Examples //
 
     // = operator:
     int x = 10;
@@ -31,7 +31,7 @@ int main() {
     x %= 3;
     cout<<x<<endl;  // Output: 2
 
-    // The following operations are done on a bit scale:
+    // The following operations are done on a bit scale: //
 
     int y = 6;
     
